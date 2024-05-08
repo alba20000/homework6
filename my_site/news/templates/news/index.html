@@ -29,7 +29,8 @@
                 <div class="card-body">
                     <h5 class="card-title">{{ item.title }}</h5>
                     <p class="card-text">{{ item.content }}</p>
-                    <a href="#" class="btn btn-primary">Подробнее...</a>
+                    <img src="{{ MEDIA_URL }}{{ item.photo }}" class="rounded w-50 d-block">
+                    <a href="#" class="mt-3 btn btn-primary">Подробнее...</a>
                 </div>
                 <div class="card-footer text-body-secondary">
                     {{ item.created_at|date:"d.m.Y H:i" }}

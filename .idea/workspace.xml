@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b948ac-05b7-4f38-82cf-ef343ea72611" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/homework6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_site/news/templates/news/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_site/news/urls.py" afterDir="false" />
+    <list default="true" id="88b948ac-05b7-4f38-82cf-ef343ea72611" name="Changes" comment="добавлены файлы">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site/my_site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/my_site/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site/news/templates/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/news/templates/news/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alba20000"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alba20000/homework6.git",
+    "accountId": "39524ae4-443f-4d73-8466-e8c6d478e5ef"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -62,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1715186861521</updated>
     </task>
+    <task id="LOCAL-00001" summary="добавлены файлы">
+      <option name="closed" value="true" />
+      <created>1715194175839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715194175839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавлены файлы" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлены файлы" />
   </component>
 </project>
