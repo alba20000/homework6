@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b948ac-05b7-4f38-82cf-ef343ea72611" name="Changes" comment="добавлены файлы">
+      <change afterPath="$PROJECT_DIR$/my_site/news/templates/news/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_site/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_site/templates/inc/_navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/homework6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework6.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_site/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_site/my_site/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/my_site/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/news/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_site/news/templates/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/news/templates/news/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/news/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_site/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_site/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,40 +31,47 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "alba20000"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alba20000&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alba20000/homework6.git",
-    "accountId": "39524ae4-443f-4d73-8466-e8c6d478e5ef"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alba20000/homework6.git&quot;,
+    &quot;accountId&quot;: &quot;9cb0859d-3c9b-4ff7-9bf3-8322beffa96e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gC1h7OYaRQRzYlL9v5QifHcZE3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homework7&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
       </set>
     </attachedChunks>
   </component>
