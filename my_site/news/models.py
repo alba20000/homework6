@@ -15,7 +15,7 @@ class News(models.Model):
         return self.title
 
     def get_absolute_url(self):
-        return reverse('category', kwargs={'category_id': self.category_id})
+        return reverse('item', kwargs={'pk': self.pk})
 
     class Meta:
         verbose_name = 'Новость'

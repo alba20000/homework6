@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Перечень новостей</title>
+</head>
+<body>
+<ul>
+    {% for item in news %}
+    <li>
+        {{ item.title }} - {{ item.category }}, {{ item.created_at }}
+    </li>
+    {% endfor %}
+</ul>
+</body>
+</html>
